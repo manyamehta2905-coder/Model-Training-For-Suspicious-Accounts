@@ -1,0 +1,25 @@
+# Dataset files
+*.csv
+data/
+train_test_data/
+
+# Virtual environment
+venv/
+env/
+
+# Model files
+*.pkl
+*.joblib
+models/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# IDE and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
